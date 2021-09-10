@@ -1,5 +1,5 @@
 from time import sleep
-print ("""\u001b[32m
+print("""\u001b[100A\u001b[32m
                 _-o#&&*''''?d:>b\\_
               _o/'`''  '',, dMF9MMMMMHo_
            .o&#'        `'MbHMMMMMMMMMMMHo.
@@ -22,9 +22,9 @@ print ("""\u001b[32m
           `&.                             .
             `~,   .                     ./
                 . _                  .-PP
-                  '`--._,dd###pp=''' """, end="")
+                  '`--._,dd###pp=''' """)
 sleep(1)
-print ("""
+print("""\u001b[100A
                   .ovr:HMM#?:`' >b\\_
               .,:&Hi' `'   '' \\\\|&bSMHo_
             oHMMM#*}          `?&dMMMMMMHo.
@@ -47,9 +47,9 @@ print ("""
           -. `9M:                          .'
             -. `b,,    .                . '
               '-\\   .,               .-`
-                  '-:b~\\\\_,oddq==--'""", end="")
+                  '-:b~\\\\_,oddq==--'""")
 sleep(1)
-print("""
+print("""\u001b[100A
                   _oo##'9MMHb':'-,o_
               .vM':HH$'    '''  '' -\\7*_
            .oHMMMHMH#9:          '\\bMMMMHo.
@@ -72,9 +72,9 @@ print("""
           .           `MM*                . '
             -.         #M: .    .       .-
               ` .         .,         .-
-                  '-.-~ooHH__,,v~--`""",end="")  
+                  '-.-~ooHH__,,v~--`""")  
 sleep(1)
-print("""
+print("""\u001b[100A
                   _,\\?dZkMHF&$*q#b..
               .//9MMMMMMM?:'HM\\\\'`-''`..
            ..`  :MMMMMMMMMMHMMMMH?_    `-\\
@@ -97,9 +97,9 @@ print("""
           -                  |MM'          .'
            `.                &M'..  .   ..'
               ' .             ._     .-
-                  '-. -voboo#&:,-.-`""",end="")
+                  '-. -voboo#&:,-.-`""")
 sleep(1)
-print("""
+print("""\u001b[100A
                   _\\oo\\?ddk9MRbS>v\\_
               ..:>*''MMMMMMMMM:?|H?$?-.
            ..- -     'HMMMMMMMMMMHMMMH\\_-.
@@ -122,9 +122,9 @@ print("""
           \\.                       .dH'    .'
             -.                    ,M'-  ..'
               ` .                .. ..-`
-                  '-. .\\ooooboo<^.-`""",end="")
+                  '-. .\\ooooboo<^.-`""")
 sleep(1)
-print("""
+print("""\u001b[100A
                 _o\\:,??\\??MR9#cb\\_
               .v/''':&#''#HMMMMMMM$?*d\\.
            ..~' - -`      `'#MMMMMMMMMMMHv.
@@ -147,9 +147,9 @@ print("""
          `- `| -                        ,&':
            `.                         ,/\\ '
               '-..                  _.-
-                  '---.._\\o,oov+--''""",end="")
+                  '---.._\\o,oov+--''""")
 sleep(1)
-print("""
+print("""\u001b[100A
                 _,oc>?_:b?o?HH#b\\_
               .v/99*''' '*H#''*HMMMMMZ,_
             oH* /'   -   '      '`#MMMMM#o.
@@ -172,9 +172,9 @@ print("""
           . `    {!                        /
             -                           ,-'
               ' .                    .-
-                 ```^==\\_.,,,ov--\\-`""",end="")
+                 ```^==\\_.,,,ov--\\-`""")
 sleep(1)
-print("""      
+print("""\u001b[100A   
                  _,o#bH\\??::?o?cbo_
               .o#MH#**SH''' '`*H#'*#MHo_
             oHMMMH^  ^'    -  `      '*HHo.
@@ -197,9 +197,9 @@ print("""
           .      `     ,/'                 .'
            ` .                          ..'
                - .                  ..-
-                  '`*#d##c.._\\v----`""",end="")
+                  '`*#d##c.._\\v----`""")
 sleep(1)
-print("""       
+print("""\u001b[100A    
                  _oo#H&d#b?\\b:_>>\\_
               .oHMMMMMMH*'*9R''-``*#P\\-_
             oHMMMMMMMMM$  .'       '   `^-
@@ -222,9 +222,9 @@ print("""
           -            `'     v/'          .'
            `-                           ..'
               ' .                    .-
-                  '`*##HMH##:__,-.-`""",end="")
+                  '`*##HMH##:__,-.-`""")
 sleep(1)
-print("""     
+print("""\u001b[100A   
                  _,dd#HMb&dHo?\\?:\\_
               .oHMMMMMMMMMMMH***9P'`'\\v.
             oHMMMMMMMMMMMMMMM>  `'      -.
@@ -247,9 +247,9 @@ print("""
           .                    '    ,/'    .'
            `..                          ..'
               `  .                   .-
-                  '`'#HHMMMMM#<>..-`""",end="")
+                  '`'#HHMMMMM#<>..-`""")
 sleep(1)    
-print("""       
+print("""\u001b[100A    
                  _,,>#b&HMHd&&bb>\\_
               _oHMMMMMMMMMMMMMMMMH**H:.
             oHMMMMMMMMMMMMMMMMMMMM#v`?  `.
@@ -272,9 +272,9 @@ print("""
          `                           '' .-'.
            `.                           .-
               '- .                   .-`
-                  '`\\bqHMMMMMMHHb--`""",end="")
+                  '`\\bqHMMMMMMHHb--`""")
 sleep(1)     
-print("""     
+print("""\u001b[100A   
                  _,<_:&S6dHHHb&bb\\_
               .odHMMMMMMMMMMMMMMMMMMM}-_
            .oHMMMMMMMMMMMMMMMMMMMMMMMM#d:.
@@ -297,9 +297,9 @@ print("""
           -                              -'/
            ` .                          . '
               ` .                    . `
-                  '--##HH#HMMMHH#''`""",end="")
+                  '--##HH#HMMMHH#''`""")
 sleep(1)
-print("""     
+print("""\u001b[100A   
                   .-:?,Z?:&$dHH##b\\_
                ,:bqRMMMMMMMMMMMMMMMMMHo.
             .?HHHMMMMMMMMMMMMMMMMMMMMMMMHo.
